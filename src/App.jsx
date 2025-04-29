@@ -2,7 +2,7 @@ import Navbar from "./navbar"
 import CardGrid from "./card-grid"
 import GigaCounter from "./giga-counter"
 import AboutMe from "./about-me"
-import Contact from "./contact"
+import Contact from "./Contact"
 import "./App.css"
 
 function App() {
